@@ -1,0 +1,7 @@
+#Eclipse related
+.project
+.settings/
+bin/
+
+#Git related
+#.gitignore
