@@ -5,3 +5,4 @@ bin/
 
 #Git related
 #.gitignore
+/target/

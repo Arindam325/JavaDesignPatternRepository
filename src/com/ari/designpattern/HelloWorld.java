@@ -1,4 +1,4 @@
-package com.ari.desgnpattern;
+package com.ari.designpattern;
 
 public class HelloWorld {
 

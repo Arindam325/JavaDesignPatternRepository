@@ -1,4 +1,4 @@
-package com.ari.desgnpattern.soliddesignpattern;
+package com.ari.designpattern.soliddesignpattern;
 
 import java.util.ArrayList;
 import java.util.Arrays;
